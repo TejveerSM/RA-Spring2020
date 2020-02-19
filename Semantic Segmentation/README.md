@@ -1,5 +1,6 @@
 # Segmentation and Masking
  
+Python code:
 - The original image is loaded using the PIL's Image library
 - Torchvision transforms are used to resize, convert, and normalize the image
 - The transformed image is passed through the network to get the segmentation map (of 21 classes)
@@ -16,4 +17,5 @@ Useful resources:
 - Crowd AI Mapping https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn
 
 Models: FCN and DeepLabV3
+
 Pytorch pre-trained models for image segmentation: https://pytorch.org/docs/stable/_modules/torchvision/models/segmentation/segmentation.html
