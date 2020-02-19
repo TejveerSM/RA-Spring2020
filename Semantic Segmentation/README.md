@@ -15,5 +15,5 @@ Useful resources:
 - Mask R-CNN for GRASS GIS https://github.com/ctu-geoforall-lab/i.ann.maskrcnn
 - Crowd AI Mapping https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn
 
-Pytorch pre-trained models for image segmentation: https://pytorch.org/docs/stable/_modules/torchvision/models/segmentation/segmentation.html
 Models: FCN and DeepLabV3
+Pytorch pre-trained models for image segmentation: https://pytorch.org/docs/stable/_modules/torchvision/models/segmentation/segmentation.html
